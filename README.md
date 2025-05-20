@@ -1,5 +1,5 @@
 # 𝗠𝗮𝘆 𝟮𝟬𝟮𝟱 𝗗𝗮𝘁𝗮𝗗𝗡𝗔 – 𝗠𝗼𝗯𝗶𝗹𝗲 𝗣𝗵𝗼𝗻𝗲 𝗦𝗮𝗹𝗲𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 project presented by Onyx Data
-### Dashboard link : https://app.powerbi.com/reportEmbed?reportId=9185f581-56e9-4af4-9297-a6d541ae2c7f&autoAuth=true&ctid=f36f7acf-1778-4d3c-a997-d110f0c48dbf
+### Dashboard link : https://app.powerbi.com/groups/me/reports/3bb6b224-526c-4578-8201-afbb2b0d3845/7177ac089ce404c7ab5d?experience=power-bi
 
 ## 🔍 𝗧𝗵𝗲 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 Overview
 As a data analyst for a major mobile retailer, I was tasked with analyzing 2024 sales data across multiple countries. The dataset included everything from transaction details and customer demographics to product specifications and payment methods.
