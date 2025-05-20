@@ -54,7 +54,6 @@ Real-time insights enable agile business responses to market trends
 
 
 
-
  
 
-![Healthcare Dashboard](https://github.com/Haruharun/Healthcare/blob/34170031aff56e7e6fb7d3fb4c950a354f51dbfd/Screenshot%202025-04-24%20114448.png)
+![Mobile Sales Dashboard](https://github.com/Haruharun/mobile-sales-analysis/blob/1a4974927978ef2316f8c583a2bb1da2747cd2be/Screenshot%202025-05-20%20124026.png)
