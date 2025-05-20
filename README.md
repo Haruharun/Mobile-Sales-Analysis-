@@ -6,7 +6,7 @@ As a data analyst for a major mobile retailer, I was tasked with analyzing 2024 
 
 
 ## mysql query
-![mysql](https://github.com/Haruharun/Healthcare/blob/3f5b4aa0a011d2773a6fadc5314d7f16bbcab6f4/health%20queries.docx)
+![mysql](https://github.com/Haruharun/mobile-sales-analysis/blob/9b584d5d07b81919e806540c19dd708253153eba/mobile%20sales%20SQL%20query.docx)
 
 ## Tasks Performed
 🛠️ 𝗠𝘆 𝗣𝗿𝗼𝗰𝗲𝘀𝘀:
